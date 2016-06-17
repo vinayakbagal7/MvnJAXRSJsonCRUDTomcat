@@ -34,7 +34,7 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>JAXRSJsonExample</finalName>
+		<finalName>JAXRSJsonCRUDExample</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
